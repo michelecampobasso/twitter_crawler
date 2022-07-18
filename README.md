@@ -23,9 +23,10 @@ Next, you can run Twitter crawler as follows:
 
 	python crawler.py target_twitter_handle download_full_path
 
-Kudos to <a href="https://github.com/kjahan">kjahan</a> for the inspiration. 
 
 ## Licence
+
+Kudos to <a href="https://github.com/kjahan">kjahan</a> for the inspiration. 
 
     Copyright (c) 2013 Black Square Media Ltd. All rights reserved.
     (The MIT License)
